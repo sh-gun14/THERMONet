@@ -13,12 +13,12 @@ Over 5 weeks, I guided the team through the following structured learning and im
 
 ### 1. Python & Data Science Fundamentals
 - Taught **NumPy** and **Pandas** for data manipulation
-- Introduced data visualization using **Matplotlib** and **Seaborn**
+- Introduced data visualization using **Matplotlib** 
 
 ### 2. Core Machine Learning Concepts
 - Supervised vs Unsupervised Learning
 - Regression & Classification algorithms
-- Model evaluation metrics (**Accuracy**, **MAE**, **RMSE**, **R²**)
+- Model evaluation metrics (**Accuracy**, **MAE**)
 
 ### 3. Exploratory Data Analysis (EDA)
 - Guided the team through analyzing and visualizing the **QM9 molecular dataset**
@@ -26,7 +26,7 @@ Over 5 weeks, I guided the team through the following structured learning and im
 
 ### 4. Graph Neural Network Foundations
 - Explained **graph theory essentials** and why molecules are naturally represented as graphs
-- Introduced **PyTorch Geometric** and its GNN layers (**GCN**, **GAT**, etc.)
+- Introduced **PyTorch Geometric** and its GNN layers 
 
 ### 5. End-to-End GNN Pipeline Development
 - **Graph Construction:** Atoms as nodes, bonds as edges
